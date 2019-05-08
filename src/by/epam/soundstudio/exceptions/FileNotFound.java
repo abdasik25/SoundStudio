@@ -27,4 +27,6 @@ public class FileNotFound extends RuntimeException {
     public void printStackTrace() {
         super.printStackTrace();
     }
+
+    public void test(){};
 }
