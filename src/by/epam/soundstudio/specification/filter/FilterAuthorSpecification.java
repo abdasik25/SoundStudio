@@ -13,6 +13,6 @@ public class FilterAuthorSpecification implements Specification<Song> {
 
     @Override
     public boolean test(Song song) {
-       return song.getName().equals(author);
+        return (song.getName().equals(author));
     }
 }

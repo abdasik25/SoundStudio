@@ -17,8 +17,9 @@ public class SymphonicSong extends Song {
         this.orchestraAmount = orchestraAmount;
     }
 
-    public SymphonicSong(long id, String name, int durationInSeconds, double cost, String country, int establishmentYear, String compositorName, int orchestraAmount) {
-        super(id, name, durationInSeconds, cost, country, establishmentYear);
+    public SymphonicSong(String name, int durationInSeconds, double cost, String country, int establishmentYear,
+                         String compositorName, int orchestraAmount) {
+        super(name, durationInSeconds, cost, country, establishmentYear);
         this.compositorName = compositorName;
         this.orchestraAmount = orchestraAmount;
     }

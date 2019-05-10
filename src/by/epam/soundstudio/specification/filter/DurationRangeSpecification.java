@@ -20,6 +20,6 @@ public class DurationRangeSpecification implements Specification<Song> {
 
     @Override
     public boolean test(Song song) {
-        return song.getDurationInSeconds() > minDuration && song.getDurationInSeconds() < maxDuration;
+        return (song.getDurationInSeconds() > minDuration && song.getDurationInSeconds() < maxDuration);
     }
 }

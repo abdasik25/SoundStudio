@@ -20,6 +20,6 @@ public class SoloRangeSpecification implements Specification<RockSong> {
 
     @Override
     public boolean test(RockSong rockSong) {
-        return rockSong.getSoloDuration() > minSoloDuration && rockSong.getSoloDuration() < maxSoloDuration;
+        return (rockSong.getSoloDuration() > minSoloDuration && rockSong.getSoloDuration() < maxSoloDuration);
     }
 }

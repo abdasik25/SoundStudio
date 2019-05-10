@@ -10,6 +10,7 @@ import by.epam.soundstudio.data.SymphonicSong;
 import java.util.Comparator;
 
 public class OrchestraAmountComparator implements Comparator<SymphonicSong> {
+
     @Override
     public int compare(SymphonicSong o1, SymphonicSong o2) {
         return Comparator.comparing(SymphonicSong::getOrchestraAmount)

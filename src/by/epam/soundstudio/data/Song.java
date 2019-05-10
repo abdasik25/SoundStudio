@@ -18,8 +18,7 @@ public abstract class Song {
 
     public static final int SECONDS_DIVISOR = 60;
 
-    public Song(long id, String name, int durationInSeconds, double cost, String country, int establishmentYear) {
-        this.id = id;
+    public Song(String name, int durationInSeconds, double cost, String country, int establishmentYear) {
         this.name = name;
         this.durationInSeconds = durationInSeconds;
         this.cost = cost;

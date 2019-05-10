@@ -20,6 +20,7 @@ public class EstablishmentRangeSpecification implements Specification<Song> {
 
     @Override
     public boolean test(Song song) {
-        return song.getEstablishmentYear() > minEstablishmentYear && song.getEstablishmentYear() < maxEstablishmentYear;
+        return (song.getEstablishmentYear() > minEstablishmentYear
+                && song.getEstablishmentYear() < maxEstablishmentYear);
     }
 }

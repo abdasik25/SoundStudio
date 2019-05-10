@@ -20,6 +20,6 @@ public class CostRangeSpecification implements Specification<Song> {
 
     @Override
     public boolean test(Song song) {
-        return song.getCost() > minCost && song.getCost() < maxCost;
+        return (song.getCost() > minCost && song.getCost() < maxCost);
     }
 }

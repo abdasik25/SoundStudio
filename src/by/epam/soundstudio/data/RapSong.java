@@ -18,9 +18,9 @@ public class RapSong extends Song {
         this.sampleSong = sampleSong;
     }
 
-    public RapSong(long id, String name, int durationInSeconds, double cost, String country,
+    public RapSong(String name, int durationInSeconds, double cost, String country,
                    int establishmentYear, String beatmaker, String sampleSong) {
-        super(id, name, durationInSeconds, cost, country, establishmentYear);
+        super(name, durationInSeconds, cost, country, establishmentYear);
         this.beatmaker = beatmaker;
         this.sampleSong = sampleSong;
     }

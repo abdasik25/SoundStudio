@@ -13,6 +13,6 @@ public class FilterCountrySpecification implements Specification<Song> {
 
     @Override
     public boolean test(Song song) {
-        return song.getCountry().equals(country);
+        return (song.getCountry().equals(country));
     }
 }
