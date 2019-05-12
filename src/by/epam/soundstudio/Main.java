@@ -5,10 +5,7 @@
  * Controller part - CONTROLLER: Console working example
  */
 
-package by.epam.soundstudio.controller;
-
-import by.epam.soundstudio.data.RapSong;
-import by.epam.soundstudio.specification.comparsion.CostComparator;
+package by.epam.soundstudio;
 
 public class Main {
     public static void main(String[] args) {
@@ -32,10 +29,14 @@ public class Main {
 //        System.out.println("---------------------");
 //        System.out.println(ConsolePrinter.output(disks.toString()));
 
-        RapSong rapSong = new RapSong(1,"MC YELLA - WORTH IT", 320, 20, "USA", 1995, "DR. DRE", "NWA - F.T.P");
-        RapSong rapSong1 = new RapSong(2,"MC YELLA - WORTH IT", 320, 20, "USA", 1995, "DR. DRE", "NWA - F.T.P");
 
-        CostComparator costComparator = new CostComparator();
-        System.out.println(costComparator.compare(rapSong,rapSong1));
+//        CostComparator costComparator = new CostComparator();
+//        System.out.println(costComparator.compare(rapSong,rapSong1));
+
+//        String name, int durationInSeconds, double cost,
+//        String country, int establishmentYear, boolean hasSolo, int soloDurationInSeconds
+
+        System.out.println((" Metallica - the unforgiven, 20, 30.5, United States of America," +
+                " 1999, TRuE, 0"));
     }
 }

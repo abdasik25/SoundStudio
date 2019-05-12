@@ -1,7 +1,7 @@
 package by.epam.soundstudio.repository;
 
 import by.epam.soundstudio.data.Song;
-import by.epam.soundstudio.exceptions.SongNotFound;
+import by.epam.soundstudio.exceptions.SongNotFoundException;
 import by.epam.soundstudio.specification.Specification;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -83,7 +83,7 @@ public class SoundStudioRepository implements Repository<Song> {
     public Optional<Song> findOne(Comparator<Song> comparator) {
         return Optional.of(disk.stream()
                 .max(comparator)
-                .orElseThrow(SongNotFound::new));
+                .orElseThrow(SongNotFoundException::new));
     }
 
 

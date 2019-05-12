@@ -1,20 +1,20 @@
 package by.epam.soundstudio.exceptions;
 
-public class SongNotFound extends RuntimeException {
+public class SongNotFoundException extends RuntimeException {
 
-    public SongNotFound() {
+    public SongNotFoundException() {
         super();
     }
 
-    public SongNotFound(String message) {
+    public SongNotFoundException(String message) {
         super(message);
     }
 
-    public SongNotFound(String message, Throwable cause) {
+    public SongNotFoundException(String message, Throwable cause) {
         super(message, cause);
     }
 
-    public SongNotFound(Throwable cause) {
+    public SongNotFoundException(Throwable cause) {
         super(cause);
     }
 
