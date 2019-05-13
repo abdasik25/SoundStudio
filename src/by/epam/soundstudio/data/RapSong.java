@@ -14,7 +14,6 @@ public class RapSong extends Song {
     private String beatmaker;
     private String sampleSong;
 
-
     public RapSong(String beatmaker, String sampleSong) {
         this.beatmaker = beatmaker;
         this.sampleSong = sampleSong;

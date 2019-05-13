@@ -14,7 +14,6 @@ public class RockSong extends Song {
     private boolean hasSolo;
     private int soloDurationInSeconds;
 
-
     public RockSong(boolean hasSolo, int soloDurationInSeconds) {
         this.hasSolo = hasSolo;
         if (hasSolo) {
@@ -83,10 +82,10 @@ public class RockSong extends Song {
             return false;
         }
         RockSong rockSong = (RockSong) obj;
-        return (rockSong.hasSolo == hasSolo && rockSong.soloDurationInSeconds == soloDurationInSeconds && rockSong.getCost()
-                == this.getCost() && rockSong.getCountry().equals(this.getCountry()) &&
+        return (rockSong.hasSolo == hasSolo && rockSong.soloDurationInSeconds == soloDurationInSeconds &&
+                rockSong.getCost() == this.getCost() && rockSong.getCountry().equals(this.getCountry()) &&
                 rockSong.getDurationInSeconds() == this.getDurationInSeconds() &&
-                rockSong.getEstablishmentYear() == this.getEstablishmentYear() && rockSong.getName()
-                .equals(this.getName()));
+                rockSong.getEstablishmentYear() == this.getEstablishmentYear() && rockSong.getName().equals
+                (this.getName()));
     }
 }
