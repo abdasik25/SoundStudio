@@ -6,6 +6,8 @@
 
 package by.epam.soundstudio.data;
 
+import java.math.BigDecimal;
+
 public class SymphonicSong extends Song {
 
     private String compositorName;
@@ -17,7 +19,7 @@ public class SymphonicSong extends Song {
         this.orchestraAmount = orchestraAmount;
     }
 
-    public SymphonicSong(String name, int durationInSeconds, double cost, String country, int establishmentYear,
+    public SymphonicSong(String name, int durationInSeconds, BigDecimal cost, String country, int establishmentYear,
                          String compositorName, int orchestraAmount) {
         super(name, durationInSeconds, cost, country, establishmentYear);
         this.compositorName = compositorName;

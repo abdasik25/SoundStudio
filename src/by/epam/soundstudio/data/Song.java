@@ -7,18 +7,20 @@
 
 package by.epam.soundstudio.data;
 
+import java.math.BigDecimal;
+
 public abstract class Song {
 
     private long id;
     private String name;
     private int durationInSeconds;
-    private double cost;
+    private BigDecimal cost;
     private String country;
     private int establishmentYear;
 
     public static final int SECONDS_DIVISOR = 60;
 
-    public Song(String name, int durationInSeconds, double cost, String country, int establishmentYear) {
+    public Song(String name, int durationInSeconds, BigDecimal cost, String country, int establishmentYear) {
         this.name = name;
         this.durationInSeconds = durationInSeconds;
         this.cost = cost;
@@ -53,11 +55,11 @@ public abstract class Song {
         this.durationInSeconds = durationInSeconds;
     }
 
-    public double getCost() {
+    public BigDecimal getCost() {
         return cost;
     }
 
-    public void setCost(double cost) {
+    public void setCost(BigDecimal cost) {
         this.cost = cost;
     }
 

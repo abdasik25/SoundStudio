@@ -7,6 +7,8 @@
 
 package by.epam.soundstudio.data;
 
+import java.math.BigDecimal;
+
 public class RapSong extends Song {
 
     private String beatmaker;
@@ -18,7 +20,7 @@ public class RapSong extends Song {
         this.sampleSong = sampleSong;
     }
 
-    public RapSong(String name, int durationInSeconds, double cost, String country,
+    public RapSong(String name, int durationInSeconds, BigDecimal cost, String country,
                    int establishmentYear, String beatmaker, String sampleSong) {
         super(name, durationInSeconds, cost, country, establishmentYear);
         this.beatmaker = beatmaker;

@@ -9,6 +9,7 @@ import by.epam.soundstudio.data.SymphonicSong;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
+import java.math.BigDecimal;
 import java.util.List;
 
 public class SymphonicSongCreator implements Creator<SymphonicSong> {
@@ -20,7 +21,7 @@ public class SymphonicSongCreator implements Creator<SymphonicSong> {
 
         String name = data.get(2);
         int durationInSeconds = Integer.parseInt(data.get(3));
-        double cost = Double.parseDouble(data.get(4));
+        BigDecimal cost = new BigDecimal(data.get(4));
         String country = data.get(5);
         int establishmentYear = Integer.parseInt(data.get(6));
         String compositorName = data.get(7);

@@ -3,6 +3,7 @@
  * Version 0.0.1
  * DATA:  Repository Behaviour Interface
  */
+
 package by.epam.soundstudio.repository;
 
 import by.epam.soundstudio.specification.Specification;

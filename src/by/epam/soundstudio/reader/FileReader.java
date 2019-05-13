@@ -1,6 +1,11 @@
+/**
+ * Created by Alexander Lomat on 10.05.19
+ * Version 0.0.1
+ */
+
 package by.epam.soundstudio.reader;
 
-import by.epam.soundstudio.exceptions.SongsFileNotFoundException;
+import by.epam.soundstudio.exceptions.SongFileNotFoundException;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
@@ -25,14 +30,14 @@ public class FileReader {
     }
 
     //FIXME
-    public List<String> readDataFromFile(String filePath) throws SongsFileNotFoundException {
+    public List<String> readDataFromFile(String filePath) throws SongFileNotFoundException {
         List<String> resultData = null;
         if (Files.exists(Paths.get(filePath))) {
             try {
                 resultData = Files.readAllLines(Paths.get(filePath), Charset.defaultCharset());
             } catch (IOException e) {
                 LOGGER.fatal("Can't find file: " + filePath, e);
-                throw new SongsFileNotFoundException();
+                throw new SongFileNotFoundException();
             }
         }
         return resultData;

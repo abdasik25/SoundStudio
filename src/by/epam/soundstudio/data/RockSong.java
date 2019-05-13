@@ -7,6 +7,8 @@
 
 package by.epam.soundstudio.data;
 
+import java.math.BigDecimal;
+
 public class RockSong extends Song {
 
     private boolean hasSolo;
@@ -22,7 +24,7 @@ public class RockSong extends Song {
         }
     }
 
-    public RockSong(String name, int durationInSeconds, double cost,
+    public RockSong(String name, int durationInSeconds, BigDecimal cost,
                     String country, int establishmentYear, boolean hasSolo, int soloDurationInSeconds) {
         super(name, durationInSeconds, cost, country, establishmentYear);
         this.hasSolo = hasSolo;

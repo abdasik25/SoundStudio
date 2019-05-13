@@ -8,18 +8,20 @@ package by.epam.soundstudio.specification.filter;
 import by.epam.soundstudio.data.Song;
 import by.epam.soundstudio.specification.Specification;
 
+import java.math.BigDecimal;
+
 public class CostRangeSpecification implements Specification<Song> {
 
-    private double minCost;
-    private double maxCost;
+    private BigDecimal minCost;
+    private BigDecimal maxCost;
 
-    public CostRangeSpecification(double minCost, double maxCost) {
+    public CostRangeSpecification(BigDecimal minCost, BigDecimal maxCost) {
         this.minCost = minCost;
         this.maxCost = maxCost;
     }
 
     @Override
     public boolean test(Song song) {
-        return (song.getCost() > minCost && song.getCost() < maxCost);
+        return (song.getCost().compareTo(minCost) - song.getCost().compareTo(maxCost) == 0);
     }
 }
