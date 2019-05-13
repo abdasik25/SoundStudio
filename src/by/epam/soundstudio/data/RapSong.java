@@ -71,7 +71,7 @@ public class RapSong extends Song {
         }
         RapSong rapSong = (RapSong) obj;
         return (rapSong.getBeatmaker().equals(this.getBeatmaker()) && rapSong.getSampleSong()
-                .equals(this.getSampleSong()) && rapSong.getCost() == this.getCost() &&
+                .equals(this.getSampleSong()) && (rapSong.getCost().compareTo(this.getCost()) == 0) &&
                 rapSong.getCountry().equals(this.getCountry()) && rapSong.getDurationInSeconds() ==
                 this.getDurationInSeconds() && rapSong.getEstablishmentYear() == this.getEstablishmentYear() &&
                 rapSong.getName().equals(this.getName()));

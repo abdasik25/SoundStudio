@@ -74,8 +74,7 @@ public class SymphonicSong extends Song {
         SymphonicSong symphonicSong = (SymphonicSong) obj;
 
         return (symphonicSong.orchestraAmount == orchestraAmount && symphonicSong.compositorName
-                .equals(compositorName) && symphonicSong.getCost()
-                == this.getCost() && symphonicSong.getCountry().equals(this.getCountry()) &&
+                .equals(compositorName) && (symphonicSong.getCost().compareTo(this.getCost()) == 0) && symphonicSong.getCountry().equals(this.getCountry()) &&
                 symphonicSong.getDurationInSeconds() == this.getDurationInSeconds()
                 && symphonicSong.getEstablishmentYear() == this.getEstablishmentYear() &&
                 symphonicSong.getName().equals(this.getName()));

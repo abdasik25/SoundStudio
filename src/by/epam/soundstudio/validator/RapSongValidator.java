@@ -9,8 +9,8 @@ import java.util.regex.Pattern;
 
 public class RapSongValidator implements SongValidator {
 
-    private static final String RAP_SONG_REGEX_PATTERN = "^ ?([\\w ]+ ) ?, ?([\\d]+) ?," +
-            " ?([\\d.]+) ?, ?([\\w ]+) ?, ?([\\d]+) ?, ?([\\w ]+ ) ?, ?([\\w ]+ ) ?$";
+    private static final String RAP_SONG_REGEX_PATTERN = "^ ?([\\w ]+)\\b ?- ?\\b([\\w ]+) ?, ?([\\d]+) ?," +
+            " ?([\\d.]+) ?, ?([\\w ]+) ?, ?([\\d]+) ?, ?([\\w ]+) ?, ?([\\w ]+) ?$";
 
     @Override
     public boolean validate(String data) {

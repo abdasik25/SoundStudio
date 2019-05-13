@@ -82,7 +82,7 @@ public class RockSong extends Song {
         }
         RockSong rockSong = (RockSong) obj;
         return (rockSong.hasSolo == hasSolo && rockSong.soloDurationInSeconds == soloDurationInSeconds &&
-                rockSong.getCost() == this.getCost() && rockSong.getCountry().equals(this.getCountry()) &&
+                (rockSong.getCost().compareTo(this.getCost()) == 0)  && rockSong.getCountry().equals(this.getCountry()) &&
                 rockSong.getDurationInSeconds() == this.getDurationInSeconds() &&
                 rockSong.getEstablishmentYear() == this.getEstablishmentYear() && rockSong.getName().equals
                 (this.getName()));

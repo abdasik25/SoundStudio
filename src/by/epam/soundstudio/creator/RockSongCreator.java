@@ -18,8 +18,8 @@ public class RockSongCreator implements Creator<RockSong> {
 
     @Override
     public RockSong create(List<String> data) {
-        String name = data.get(2);
-        int durationInSeconds = Integer.parseInt(data.get(3));
+        String name = data.get(1);
+        int durationInSeconds = Integer.parseInt(data.get(2));
         BigDecimal cost = new BigDecimal(data.get(3));
         String country = data.get(4);
         int establishmentYear = Integer.parseInt(data.get(5));

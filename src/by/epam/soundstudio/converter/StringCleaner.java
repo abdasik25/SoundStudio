@@ -11,11 +11,11 @@ public class StringCleaner {
 
     private static final Logger LOGGER = LogManager.getLogger();
 
-    private static final String ILLEGAL_CHARS = "[_/!?~^]";
+    private static final String ILLEGAL_CHARS = "[_/@!?~^;{}]";
 
 
     public String deleteIllegalChars(String line) {
-        line = line.replaceAll(ILLEGAL_CHARS, "").toLowerCase();
+        line = line.replaceAll(ILLEGAL_CHARS, "");
         return line;
     }
 

@@ -15,7 +15,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 
-//FIXME INSTANCE?
 public class FileReader {
 
     private static final Logger LOGGER = LogManager.getLogger();
@@ -38,6 +37,12 @@ public class FileReader {
             } catch (IOException e) {
                 LOGGER.fatal("Can't find file: " + filePath, e);
                 throw new SongFileNotFoundException();
+            }
+        } else {
+            try {
+                resultData = Files.readAllLines(Paths.get(DEFAULT_DATA_FILE), Charset.defaultCharset());
+            } catch (IOException e) {
+                e.printStackTrace();
             }
         }
         return resultData;
