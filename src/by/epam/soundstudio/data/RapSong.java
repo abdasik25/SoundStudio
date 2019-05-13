@@ -4,7 +4,6 @@
  * DATA:  Rap Song Class
  */
 
-
 package by.epam.soundstudio.data;
 
 import java.math.BigDecimal;
@@ -41,7 +40,6 @@ public class RapSong extends Song {
     public void setSampleSong(String sampleSong) {
         this.sampleSong = sampleSong;
     }
-
 
     @Override
     public String toString() {

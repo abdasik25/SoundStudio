@@ -7,11 +7,14 @@ package by.epam.soundstudio.repository;
 
 import by.epam.soundstudio.data.Song;
 import by.epam.soundstudio.exceptions.SongNotFoundException;
-import by.epam.soundstudio.specification.Specification;
+import by.epam.soundstudio.specification.filter.Specification;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Optional;
 import java.util.concurrent.atomic.AtomicLong;
 import java.util.function.BinaryOperator;
 import java.util.function.Function;
@@ -19,6 +22,7 @@ import java.util.stream.Collectors;
 
 import static java.util.Optional.ofNullable;
 
+//FIXME IdGenerator
 public class SoundStudioRepository implements Repository<Song> {
 
     private static final Logger LOGGER = LogManager.getLogger();

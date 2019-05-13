@@ -6,7 +6,6 @@
 package by.epam.soundstudio.specification.filter;
 
 import by.epam.soundstudio.data.SymphonicSong;
-import by.epam.soundstudio.specification.Specification;
 
 public class OrchestraRangeSpecification implements Specification<SymphonicSong> {
 

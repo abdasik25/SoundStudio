@@ -6,7 +6,7 @@
 
 package by.epam.soundstudio.repository;
 
-import by.epam.soundstudio.specification.Specification;
+import by.epam.soundstudio.specification.filter.Specification;
 
 import java.util.Comparator;
 import java.util.List;

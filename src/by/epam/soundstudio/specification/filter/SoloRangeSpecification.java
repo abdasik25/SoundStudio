@@ -6,7 +6,6 @@
 package by.epam.soundstudio.specification.filter;
 
 import by.epam.soundstudio.data.RockSong;
-import by.epam.soundstudio.specification.Specification;
 
 public class SoloRangeSpecification implements Specification<RockSong> {
 

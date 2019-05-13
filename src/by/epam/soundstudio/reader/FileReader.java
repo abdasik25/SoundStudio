@@ -15,6 +15,7 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.List;
 
+//FIXME INSTANCE?
 public class FileReader {
 
     private static final Logger LOGGER = LogManager.getLogger();
@@ -29,7 +30,6 @@ public class FileReader {
         return INSTANCE;
     }
 
-    //FIXME
     public List<String> readDataFromFile(String filePath) throws SongFileNotFoundException {
         List<String> resultData = null;
         if (Files.exists(Paths.get(filePath))) {

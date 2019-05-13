@@ -3,7 +3,7 @@
  * Version 0.0.1
  */
 
-package by.epam.soundstudio.specification;
+package by.epam.soundstudio.specification.filter;
 
 import java.util.function.Predicate;
 

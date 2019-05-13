@@ -16,8 +16,7 @@ public class FileData {
 
     private static final Logger LOGGER = LogManager.getLogger();
 
-
-    //FIXME
+    //FIXME: INSTANCE? :D
     private static FileData INSTANCE;
 
     private static FileData getINSTANCE(){

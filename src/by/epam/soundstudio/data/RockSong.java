@@ -4,7 +4,6 @@
  * DATA: Rock Song Class
  */
 
-
 package by.epam.soundstudio.data;
 
 import java.math.BigDecimal;

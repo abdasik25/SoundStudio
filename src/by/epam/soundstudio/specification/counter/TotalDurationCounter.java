@@ -11,10 +11,10 @@ import java.util.function.Function;
 
 public class TotalDurationCounter implements Function <Song, Integer> {
 
-    private static final int SECONDS_DIVISOR = 60;
+    private static final int SECONDS_TO_MINUTES_DIVISOR = 60;
 
     @Override
     public Integer apply(Song song) {
-        return song.getDurationInSeconds() / SECONDS_DIVISOR;
+        return song.getDurationInSeconds() / SECONDS_TO_MINUTES_DIVISOR;
     }
 }

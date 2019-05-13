@@ -1,6 +1,7 @@
 package by.epam.soundstudio.exceptions;
 
 public class SongFileNotFoundException extends Exception {
+
     public SongFileNotFoundException() {
     }
 

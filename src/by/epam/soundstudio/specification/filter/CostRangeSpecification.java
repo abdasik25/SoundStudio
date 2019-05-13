@@ -6,7 +6,6 @@
 package by.epam.soundstudio.specification.filter;
 
 import by.epam.soundstudio.data.Song;
-import by.epam.soundstudio.specification.Specification;
 
 import java.math.BigDecimal;
 

@@ -13,7 +13,6 @@ public class SymphonicSong extends Song {
     private String compositorName;
     private int orchestraAmount;
 
-
     public SymphonicSong(String compositorName, int orchestraAmount) {
         this.compositorName = compositorName;
         this.orchestraAmount = orchestraAmount;
@@ -81,6 +80,5 @@ public class SymphonicSong extends Song {
                 && symphonicSong.getEstablishmentYear() == this.getEstablishmentYear() &&
                 symphonicSong.getName().equals(this.getName()));
     }
-
 
 }

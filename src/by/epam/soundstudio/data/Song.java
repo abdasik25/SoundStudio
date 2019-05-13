@@ -4,7 +4,6 @@
  * DATA: Abstract Class SONG
  */
 
-
 package by.epam.soundstudio.data;
 
 import java.math.BigDecimal;
@@ -78,7 +77,6 @@ public abstract class Song {
     public void setEstablishmentYear(int establishmentYear) {
         this.establishmentYear = establishmentYear;
     }
-
 
 }
 
