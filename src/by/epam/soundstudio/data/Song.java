@@ -6,6 +6,8 @@
 
 package by.epam.soundstudio.data;
 
+import by.epam.soundstudio.util.IdGenerator;
+
 import java.math.BigDecimal;
 
 public abstract class Song {
@@ -20,6 +22,7 @@ public abstract class Song {
     public static final int SECONDS_DIVISOR = 60;
 
     public Song(String name, int durationInSeconds, BigDecimal cost, String country, int establishmentYear) {
+        this.id = IdGenerator.generateId();
         this.name = name;
         this.durationInSeconds = durationInSeconds;
         this.cost = cost;

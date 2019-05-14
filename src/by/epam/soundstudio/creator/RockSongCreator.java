@@ -9,7 +9,6 @@ import by.epam.soundstudio.data.RockSong;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import java.math.BigDecimal;
 import java.util.List;
 
 public class RockSongCreator implements Creator<RockSong> {
@@ -20,7 +19,7 @@ public class RockSongCreator implements Creator<RockSong> {
     public RockSong create(List<String> data) {
         String name = data.get(1);
         int durationInSeconds = Integer.parseInt(data.get(2));
-        BigDecimal cost = new BigDecimal(data.get(3));
+        double cost = Double.parseDouble(data.get(3));
         String country = data.get(4);
         int establishmentYear = Integer.parseInt(data.get(5));
         boolean hasSolo = Integer.parseInt(data.get(6)) == 1 ? true : false;

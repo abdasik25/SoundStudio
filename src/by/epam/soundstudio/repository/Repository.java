@@ -28,8 +28,6 @@ public interface Repository<T> {
 
     List<T> sorted(Comparator<T> comparator);
 
-    Optional<T> findOne(Comparator<T> comparator);
-
     <R> Optional<R> sum(Specification<T> specification, Function<T, R> function, BinaryOperator<R> aggregator);
 
     long count(Specification<T> specification);

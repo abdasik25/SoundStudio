@@ -1,9 +1,17 @@
+/**
+ * Created by Alexander Lomat on 14.05.19
+ * Version 0.0.1
+ */
+
 package by.epam.soundstudio.util;
 
 public class IdGenerator {
     private static long idCounter = 0;
 
-    public static long createId() {
+    private IdGenerator(){
+    }
+
+    public static long generateId() {
         return idCounter++;
     }
 

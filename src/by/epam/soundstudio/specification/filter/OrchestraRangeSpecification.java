@@ -20,7 +20,7 @@ public class OrchestraRangeSpecification implements Specification<SymphonicSong>
 
     @Override
     public boolean test(SymphonicSong symphonicSong) {
-        return (symphonicSong.getOrchestraAmount() > minOrchestraAmount
-                && symphonicSong.getOrchestraAmount() < maxOrchestraAmount);
+        return (symphonicSong.getOrchestraAmount() >= minOrchestraAmount
+                && symphonicSong.getOrchestraAmount() <= maxOrchestraAmount);
     }
 }

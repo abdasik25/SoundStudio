@@ -22,9 +22,9 @@ public class RockSong extends Song {
         }
     }
 
-    public RockSong(String name, int durationInSeconds, BigDecimal cost,
+    public RockSong(String name, int durationInSeconds, double cost,
                     String country, int establishmentYear, boolean hasSolo, int soloDurationInSeconds) {
-        super(name, durationInSeconds, cost, country, establishmentYear);
+        super(name, durationInSeconds, new BigDecimal(cost), country, establishmentYear);
         this.hasSolo = hasSolo;
         if (hasSolo) {
             this.soloDurationInSeconds = soloDurationInSeconds;

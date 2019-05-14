@@ -14,7 +14,6 @@ public class OrchestraAmountComparator implements Comparator<SymphonicSong> {
     @Override
     public int compare(SymphonicSong o1, SymphonicSong o2) {
         return Comparator.comparing(SymphonicSong::getOrchestraAmount)
-                .reversed()
                 .compare(o1,o2);
     }
 }

@@ -1,3 +1,8 @@
+/**
+ * Created by Alexander Lomat on 14.05.19
+ * Version 0.0.1
+ */
+
 package by.epam.soundstudio.converter;
 
 import by.epam.soundstudio.validator.SongValidator;

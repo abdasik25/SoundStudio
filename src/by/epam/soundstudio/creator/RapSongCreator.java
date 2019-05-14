@@ -6,10 +6,9 @@
 package by.epam.soundstudio.creator;
 
 import by.epam.soundstudio.data.RapSong;
-import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
-import java.math.BigDecimal;
 import java.util.List;
 
 
@@ -21,7 +20,7 @@ public class RapSongCreator implements Creator<RapSong> {
     public RapSong create(List<String> data) {
         String name = data.get(1);
         int durationInSeconds = Integer.parseInt(data.get(2));
-        BigDecimal cost = new BigDecimal(data.get(3));
+        double cost = Double.parseDouble(data.get(3));
         String country = data.get(4);
         int establishmentYear = Integer.parseInt(data.get(5));
         String beatmaker = data.get(6);

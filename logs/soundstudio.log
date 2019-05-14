@@ -285,3 +285,1358 @@ Year: 4 was created
 2019-05-13 23:29:55 DEBUG by.epam.soundstudio.converter.StringCleaner:33 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
 2019-05-13 23:32:44 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
 2019-05-13 23:35:29 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 15:13:48 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 15:13:55 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 15:14:09 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 15:14:23 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 15:14:51 DEBUG by.epam.soundstudio.converter.StringCleaner:29 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 19:59:00 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:43 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991was recorded on disk. ID = 0
+2019-05-14 20:00:07 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:43 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 0
+2019-05-14 20:01:01 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:43 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 20:08:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:43 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 20:56:11 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 20:56:11 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 20:58:24 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 20:58:24 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 20:58:58 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 20:58:58 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 20:59:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 20:59:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:11:46 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:11:46 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:12:25 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:12:25 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:15:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:15:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:20:03 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 21:20:03 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:61 - 
+Disk was cleared.
+2019-05-14 21:21:37 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 21:21:37 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:49 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was deleted from disk.
+2019-05-14 21:26:51 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:26:51 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 30$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:27:15 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:27:15 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 30$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:27:43 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:27:43 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:29:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:29:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:29:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 21:29:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 5
+2019-05-14 21:32:17 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:32:17 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:32:17 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 21:32:17 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 5
+2019-05-14 21:33:04 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:33:04 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:33:04 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 21:33:04 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 5
+2019-05-14 21:33:30 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:33:30 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:33:30 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 21:33:30 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 5
+2019-05-14 21:34:56 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:34:56 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:35:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:35:28 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:36:10 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 2
+2019-05-14 21:36:10 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:41 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 3
+2019-05-14 21:40:26 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:45 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 21:41:32 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:45 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 22:16:08 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 22:16:23 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 22:18:08 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1
+2019-05-14 22:56:21 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 22:56:21 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 6
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 9
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 10
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 12
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 14
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 17
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 18
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 20
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 30
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RapSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.creator.RapSongCreator:31 - 
+
+Rap Song: 
+Song title:  name
+Beatmaker: beatmaker
+Sample song: samplesong
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created.
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.creator.RockSongCreator:31 - 
+
+Rock Song: 
+Song title:  name
+Has solo?: No
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.creator.SymphonicSongCreator:31 - 
+
+Symphonic Song: 
+Song title:  name
+Compositor name: compositorname
+Duration: 0:2
+Orchestra amount:0
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:64 - 
+Disk was cleared.
+2019-05-14 22:56:22 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:52 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was deleted from disk.
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 6
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 9
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 10
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 12
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 14
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 17
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 18
+2019-05-14 22:56:49 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 20
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 32
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RapSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.creator.RapSongCreator:31 - 
+
+Rap Song: 
+Song title:  name
+Beatmaker: beatmaker
+Sample song: samplesong
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created.
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.creator.RockSongCreator:31 - 
+
+Rock Song: 
+Song title:  name
+Has solo?: No
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.creator.SymphonicSongCreator:31 - 
+
+Symphonic Song: 
+Song title:  name
+Compositor name: compositorname
+Duration: 0:2
+Orchestra amount:0
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:64 - 
+Disk was cleared.
+2019-05-14 22:56:50 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:52 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was deleted from disk.
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 6
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 9
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 10
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 12
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 14
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 17
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 18
+2019-05-14 22:58:19 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 20
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 32
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RapSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.creator.RapSongCreator:31 - 
+
+Rap Song: 
+Song title:  name
+Beatmaker: beatmaker
+Sample song: samplesong
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created.
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.creator.RockSongCreator:31 - 
+
+Rock Song: 
+Song title:  name
+Has solo?: No
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.creator.SymphonicSongCreator:31 - 
+
+Symphonic Song: 
+Song title:  name
+Compositor name: compositorname
+Duration: 0:2
+Orchestra amount:0
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:64 - 
+Disk was cleared.
+2019-05-14 22:58:20 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:52 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was deleted from disk.
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 6
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 9
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 10
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 12
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 14
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 17
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 18
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 20
+2019-05-14 22:58:45 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 32
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RapSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.creator.RapSongCreator:31 - 
+
+Rap Song: 
+Song title:  name
+Beatmaker: beatmaker
+Sample song: samplesong
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created.
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.creator.RockSongCreator:31 - 
+
+Rock Song: 
+Song title:  name
+Has solo?: No
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.creator.SymphonicSongCreator:31 - 
+
+Symphonic Song: 
+Song title:  name
+Compositor name: compositorname
+Duration: 0:2
+Orchestra amount:0
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:64 - 
+Disk was cleared.
+2019-05-14 22:58:46 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:52 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was deleted from disk.
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 4
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 6
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 9
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 10
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 12
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 14
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 30$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 17
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - Turn The Page
+Has solo?: No
+Duration: 5:0
+Cost: 20$
+Country: USA
+Year: 1997
+was recorded on disk. ID = 18
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 20
+2019-05-14 22:59:29 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:0
+Duration: 10:0
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 32
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RapSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.RockSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.converter.StringCleaner:34 - class by.epam.soundstudio.validator.SymphonicSongValidator: Line 'na!m^e,2?,3!,c?ou?nt?r?y,4,bea!t!ma!!ker,s^amplesong' was removed
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.creator.RapSongCreator:31 - 
+
+Rap Song: 
+Song title:  name
+Beatmaker: beatmaker
+Sample song: samplesong
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created.
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.creator.RockSongCreator:31 - 
+
+Rock Song: 
+Song title:  name
+Has solo?: No
+Duration: 0:2
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.creator.SymphonicSongCreator:31 - 
+
+Symphonic Song: 
+Song title:  name
+Compositor name: compositorname
+Duration: 0:2
+Orchestra amount:0
+Cost: 3$
+Country: country
+Year: 4 was created
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:64 - 
+Disk was cleared.
+2019-05-14 22:59:30 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:52 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was deleted from disk.
+2019-05-14 23:00:16 DEBUG by.epam.soundstudio.repository.SoundStudioRepository:44 - 
+
+Rock Song: 
+Song title:  Metallica - The Unforgiven
+Has solo?: Yes
+Solo duration: 1:30
+Duration: 7:30
+Cost: 20$
+Country: USA
+Year: 1991
+was recorded on disk. ID = 1

@@ -14,7 +14,6 @@ public class CostComparator implements Comparator<Song> {
     @Override
     public int compare(Song o1, Song o2) {
         return Comparator.comparing(Song::getCost)
-                .reversed()
                 .compare(o1, o2);
     }
 }

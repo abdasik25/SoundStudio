@@ -1,3 +1,8 @@
+/**
+ * Created by Alexander Lomat on 14.05.19
+ * Version 0.0.1
+ */
+
 package by.epam.soundstudio.creator;
 
 import by.epam.soundstudio.converter.StringSplitter;
@@ -8,7 +13,6 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
-import java.math.BigDecimal;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.List;
@@ -30,7 +34,7 @@ public class RockSongCreatorTest {
     public static Collection<Object[]> getParameters() {
         return Arrays.asList(new Object[][]{
                 {"1,name,2,3,country,4,0,0", new RockSong("name", 2,
-                        new BigDecimal("3"), "country", 4, false,
+                        3, "country", 4, false,
                         0)},
         });
 

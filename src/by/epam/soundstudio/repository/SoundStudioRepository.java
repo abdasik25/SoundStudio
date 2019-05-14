@@ -6,12 +6,10 @@
 package by.epam.soundstudio.repository;
 
 import by.epam.soundstudio.data.Song;
-import by.epam.soundstudio.exceptions.SongNotFoundException;
 import by.epam.soundstudio.specification.filter.Specification;
 import by.epam.soundstudio.util.IdGenerator;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
@@ -22,7 +20,6 @@ import java.util.stream.Collectors;
 
 import static java.util.Optional.ofNullable;
 
-//FIXME IdGenerator
 public class SoundStudioRepository implements Repository<Song> {
 
     private static final Logger LOGGER = LogManager.getLogger();
@@ -36,11 +33,15 @@ public class SoundStudioRepository implements Repository<Song> {
         return disk.get(index);
     }
 
+    public List<Song> getSongList() {
+        return disk;
+    }
+
     @Override
     public boolean add(Song entity) {
-        entity.setId(IdGenerator.createId());
+        entity.setId(IdGenerator.generateId());
         disk.add(entity);
-        LOGGER.debug(entity + "was recorded on disk. ID = " + entity.getId());
+        LOGGER.debug(entity + "\nwas recorded on disk. ID = " + entity.getId());
         return true;
     }
 
@@ -48,10 +49,10 @@ public class SoundStudioRepository implements Repository<Song> {
     public boolean remove(Song entity) {
         if (disk.contains(entity)) {
             disk.remove(entity);
-            LOGGER.debug(entity + "was deleted from disk.");
+            LOGGER.debug(entity + "\nwas deleted from disk.");
             return true;
         } else {
-            LOGGER.error(entity + "was not found on disk.");
+            LOGGER.error(entity + "\nwas not found on disk.");
             return false;
         }
     }
@@ -60,7 +61,7 @@ public class SoundStudioRepository implements Repository<Song> {
     public boolean removeAll() {
         disk.clear();
         IdGenerator.setId(0);
-        LOGGER.debug("Disk was cleared.");
+        LOGGER.debug("\nDisk was cleared.");
         return true;
     }
 
@@ -81,19 +82,11 @@ public class SoundStudioRepository implements Repository<Song> {
         return disk.stream().filter(specification).collect(Collectors.toList());
     }
 
+
     @Override
     public List<Song> sorted(Comparator<Song> comparator) {
         return disk.stream().sorted(comparator).collect(Collectors.toList());
     }
-
-
-    @Override
-    public Optional<Song> findOne(Comparator<Song> comparator) {
-        return Optional.of(disk.stream()
-                .max(comparator)
-                .orElseThrow(SongNotFoundException::new));
-    }
-
 
     @Override
     public <R> Optional<R> sum(Specification<Song> specification, Function<Song, R> function,

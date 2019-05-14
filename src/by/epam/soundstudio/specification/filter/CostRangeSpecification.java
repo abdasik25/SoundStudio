@@ -14,13 +14,13 @@ public class CostRangeSpecification implements Specification<Song> {
     private BigDecimal minCost;
     private BigDecimal maxCost;
 
-    public CostRangeSpecification(BigDecimal minCost, BigDecimal maxCost) {
-        this.minCost = minCost;
-        this.maxCost = maxCost;
+    public CostRangeSpecification(double minCost, double maxCost) {
+        this.minCost = new BigDecimal(minCost);
+        this.maxCost = new BigDecimal(maxCost);
     }
 
     @Override
     public boolean test(Song song) {
-        return (song.getCost().compareTo(minCost) - song.getCost().compareTo(maxCost) == 0);
+        return (song.getCost().compareTo(minCost) == 1 && song.getCost().compareTo(maxCost) == -1);
     }
 }

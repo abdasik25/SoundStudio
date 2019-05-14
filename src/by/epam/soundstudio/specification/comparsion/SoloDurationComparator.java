@@ -14,7 +14,6 @@ public class SoloDurationComparator implements Comparator<RockSong> {
     @Override
     public int compare(RockSong o1, RockSong o2) {
         return Comparator.comparing(RockSong::getSoloDuration)
-                .reversed()
                 .compare(o1,o2);
     }
 }
