@@ -25,7 +25,6 @@ public class SoloDurationComparatorTest {
         this.rockSongGreater = rockSongGreater;
         this.rockSongSmaller = rockSongSmaller;
     }
-
     @Parameterized.Parameters
     public static Collection<Object[]> getParameters() {
         RockSong rockSong = new RockSong("Metallica - The Unforgiven", 450, 40,
